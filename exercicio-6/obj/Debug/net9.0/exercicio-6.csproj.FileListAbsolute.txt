@@ -1,0 +1,15 @@
+T:\Workspace\Daniel\exercicios-poo-jogos-digitais\exercicio-6\obj\Debug\net9.0\exercicio-6.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Daniel\exercicios-poo-jogos-digitais\exercicio-6\obj\Debug\net9.0\exercicio-6.AssemblyInfoInputs.cache
+T:\Workspace\Daniel\exercicios-poo-jogos-digitais\exercicio-6\obj\Debug\net9.0\exercicio-6.AssemblyInfo.cs
+T:\Workspace\Daniel\exercicios-poo-jogos-digitais\exercicio-6\obj\Debug\net9.0\exercicio-6.csproj.CoreCompileInputs.cache
+T:\Workspace\Daniel\exercicios-poo-jogos-digitais\exercicio-6\obj\Debug\net9.0\exercicio-6.sourcelink.json
+T:\Workspace\Daniel\exercicios-poo-jogos-digitais\exercicio-6\bin\Debug\net9.0\exercicio-6.exe
+T:\Workspace\Daniel\exercicios-poo-jogos-digitais\exercicio-6\bin\Debug\net9.0\exercicio-6.deps.json
+T:\Workspace\Daniel\exercicios-poo-jogos-digitais\exercicio-6\bin\Debug\net9.0\exercicio-6.runtimeconfig.json
+T:\Workspace\Daniel\exercicios-poo-jogos-digitais\exercicio-6\bin\Debug\net9.0\exercicio-6.dll
+T:\Workspace\Daniel\exercicios-poo-jogos-digitais\exercicio-6\bin\Debug\net9.0\exercicio-6.pdb
+T:\Workspace\Daniel\exercicios-poo-jogos-digitais\exercicio-6\obj\Debug\net9.0\exercicio-6.dll
+T:\Workspace\Daniel\exercicios-poo-jogos-digitais\exercicio-6\obj\Debug\net9.0\refint\exercicio-6.dll
+T:\Workspace\Daniel\exercicios-poo-jogos-digitais\exercicio-6\obj\Debug\net9.0\exercicio-6.pdb
+T:\Workspace\Daniel\exercicios-poo-jogos-digitais\exercicio-6\obj\Debug\net9.0\exercicio-6.genruntimeconfig.cache
+T:\Workspace\Daniel\exercicios-poo-jogos-digitais\exercicio-6\obj\Debug\net9.0\ref\exercicio-6.dll
